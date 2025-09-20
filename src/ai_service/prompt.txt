@@ -1,0 +1,33 @@
+
+Analyze this CV and provide comprehensive feedback. Focus on both content AND formatting:
+
+CV CONTENT:
+{cv_content}
+
+FORMATTING INFORMATION:
+{formatting_info}
+
+Please provide structured feedback in these categories:
+
+1. **Layout & Structure** 📐
+- Page organization and visual hierarchy
+- Section spacing and alignment
+- Consistency in formatting
+
+2. **Content Effectiveness** 💼
+- Clarity of professional summary
+- Impact of achievement statements
+- Skills presentation relevance
+
+3. **ATS Optimization** 🤖
+- Keyword optimization for recruiters
+- Machine readability assessment
+- Section header effectiveness
+
+4. **Overall Recommendations** ⚡
+- Top 3 immediate improvements
+- Formatting suggestions
+- Content enhancement ideas
+
+Provide specific, actionable feedback. Mention particular sections that need improvement.
+Use bullet points for clarity and include emojis for better readability.
